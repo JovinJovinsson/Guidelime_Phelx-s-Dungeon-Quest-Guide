@@ -4,6 +4,7 @@ Guidelime.registerGuide([[
 [D Phelx's guide to acquiring all RFC quests. There are 5 total.]
 [GA Horde]
 
+All quests require a minimum level of [XP9 9].
 Enter Thunderbluff and accept [QA5722][QA5723] from Rahauro.
 Get the Flightpath [P Thunderbluff].
 The Flightpaths below are optional, but will help with future leveling.
