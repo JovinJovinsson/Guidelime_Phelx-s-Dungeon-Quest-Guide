@@ -1,6 +1,6 @@
 Guidelime.registerGuide([[
 
-[N13-18 Phelx's Ragefire Chasm (RFC) Guide (Mulgore Leveling)]
+[N13-18 Phelx's Ragefire Chasm (RFC) Guide (Mulgore Start)]
 [D Phelx's guide to acquiring all RFC quests. There are 5 total.]
 [GA Horde]
 
