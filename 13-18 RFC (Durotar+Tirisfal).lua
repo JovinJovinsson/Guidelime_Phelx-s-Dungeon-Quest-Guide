@@ -8,13 +8,13 @@ All quests require a minimum level of [XP9 9].
 [O] If you are leveling in Tirisfal Glades then run to Undercity.
 [O] Get the Flightpath [P Undercity] for leveling convenience later on.
 [O] Accept [QA5725] from Varimathras.
-Catch the [G61, 59 Tirisfal Glades] Zeppelin to Orgrimmar.
+[O] Catch the [G61, 59 Tirisfal Glades] Zeppelin to Orgrimmar.
 Set Hearth to [S Orgrimmar].
 Get the Flightpath [P Orgrimmar].
 Accept [QA5761] from Neeru Fireblade.
 Accept [QA5726] from Thrall.
 Head East out of Orgrimmar towards [G55,9 Durotar] and kill all the mobs for [QC5726].
-**The below steps can be skipped if you leveled in Tirisfal Glades**
+**The 3 steps below can be skipped if you started in Tirisfal Glades**
 [O] Catch the [G50.8, 13.6 Durotar] Zeppelin to Undercity.
 [O] Get the Flightpath [P Undercity] for leveling convenience later on.
 [O] Accept [QA5725] from Varimathras.
