@@ -1,0 +1,11 @@
+
+## Title: Guidelime_Phelx's Dungeon Quest Guide
+## Author: Phelx
+## Version: 0.0.3-Release
+## Interface: 11302
+## Dependencies: Guidelime
+## Notes: Phelx's Dungeon Quest Guide
+
+13-18 RFC.lua
+15-25 WC.lua
+18-23 VC.lua
