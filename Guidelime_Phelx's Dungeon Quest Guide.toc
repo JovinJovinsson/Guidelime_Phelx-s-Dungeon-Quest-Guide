@@ -1,12 +1,13 @@
 
 ## Title: Guidelime_Phelx's Dungeon Quest Guide
 ## Author: Phelx
-## Version: 0.0.4-Release
+## Version: 0.0.5-Release
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: Phelx's Dungeon Quest Guide
 
-13-18 RFC (Durotar+Tirisfal).lua
-13-18 RFC (Mulgore).lua
+13-18 RFC (Durotar Start).lua
+13-18 RFC (Mulgore Start).lua
+13-18 RFC (Tirisfal Glades Start).lua
 15-25 WC.lua
 18-23 VC.lua
