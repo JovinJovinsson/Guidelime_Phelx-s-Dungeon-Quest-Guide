@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 
 [N18-23 Phelx's Deadmines (VC) Guide]
-[D Phelx's guide to acquiring all VC quests. There at 6 total.]
+[D Phelx's guide to acquiring all VC quests. There are 6 total.]
 [GA Alliance]
 
 Quests can begin to be obtained at level [XP10 10] with some requiring [XP14 14]-[XP16 16].
