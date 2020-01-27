@@ -11,3 +11,5 @@
 13-18 RFC (Tirisfal Glades Start).lua
 15-25 WC.lua
 18-23 VC.lua
+20-30 BFD (Alliance).lua
+20-30 BFD (Horde).lua
