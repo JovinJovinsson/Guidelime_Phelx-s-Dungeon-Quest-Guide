@@ -13,3 +13,4 @@
 18-23 VC.lua
 20-30 BFD (Alliance).lua
 20-30 BFD (Horde).lua
+22-30 SFK.lua
