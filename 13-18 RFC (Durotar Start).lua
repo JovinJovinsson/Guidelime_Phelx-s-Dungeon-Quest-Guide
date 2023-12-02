@@ -26,9 +26,8 @@ Turn in [QT5761] at Neeru.
 Turn in [QT5828] at Thrall, accept [QA5729].
 Speak to Neeru Fireblade to turn in [QT5729], accept [QA5730].
 Turn in [QT5730] at Thrall.
+Go to Undercity and turn in [QT5725] at Varimathras.
+Hearth to [H Orgrimmar].
 Fly to [F Thunderbluff].
 Turn in [QT5723][QT5724] at Rahauro.
-Fly to [F Orgimmar].
-Go to Undercity and turn in [QT5725] at Varimathras.
-
 ]], "Phelx's Dungeon Quest Guide")
