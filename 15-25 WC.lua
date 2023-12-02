@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 
 [N15-25 Phelx's Wailing Caverns (WC) Guide]
-[D Phelx's guide to acquiring all WC quests. There are 7 total, 2 of which are Horde exclusive. For Alliance players, skip the steps marked with **Horde** at the beginning.]
+[D Phelx's guide to acquiring all WC quests. There are 7 total, 2 of which are Horde exclusive.]
 
 Quests can begin to be obtained at level [XP10 10] with some requiring [XP13 13]-[XP15 15].
 [A Horde] Run or Fly to [F Thunderbluff].
