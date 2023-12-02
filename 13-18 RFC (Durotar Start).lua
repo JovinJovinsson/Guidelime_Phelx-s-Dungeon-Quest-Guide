@@ -30,6 +30,4 @@ Go to Undercity and turn in [QT5725] at Varimathras.
 Hearth to [H Orgrimmar].
 Fly to [F Thunderbluff].
 Turn in [QT5723][QT5724] at Rahauro.
-[NX 15-25 WC]
-[NX 18-32 VC]
 ]], "Phelx's Dungeon Quest Guide")
