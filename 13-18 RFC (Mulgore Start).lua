@@ -10,7 +10,7 @@ Get the Flightpath [P Thunderbluff].
 The Flightpaths below are optional, but will help with future leveling.
 Run to Camp Taurajo and get [P Camp Taurajo].
 Run to Crossroads and get [P Crossroads].
-Run to Ratch and get [P Ratchet].
+Run to Ratchet and get [P Ratchet].
 Run to Orgrimmar, then set your Hearth to [S Orgrimmar].
 Get the Flightpath [P Orgrimmar].
 Accept [QA5761] from Neeru Fireblade.
