@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 
 [N24-34 Phelx's Gnomeregan (Horde) Guide]
-[D Phelx's guide to acquiring all Gnomeregean quests. This details the shared & Horde exclusive quests - 5 in total.]
+[D Phelx's guide to acquiring all Gnomeregean quests. This details the shared & Horde exclusive quests - 5 in total. NOTE: This is for Classic Gnomeregan and may be different for Season of Discovery.]
 [GA Horde]
 
 [O] Quests can be obtained from [XP20 20], although to get all you must be [XP25 25], however it's strongly recommended you either run multiple times or wait until you're closer to [XP30 30].
