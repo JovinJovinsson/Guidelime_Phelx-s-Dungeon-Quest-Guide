@@ -1,7 +1,7 @@
 
 ## Title: Guidelime_Phelx's Dungeon Quest Guide
 ## Author: Phelx
-## Version: 0.8-Release
+## Version: 0.9-Release
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: Phelx's Dungeon Quest Guide
@@ -15,4 +15,6 @@
 20-30 BFD (Horde).lua
 22-30 SFK.lua
 22-30 Stocks.lua
+24-34 Gnomer (Alliance).lua
+24-34 Gnomer (Horde).lua
 25 Stocks Side.lua
