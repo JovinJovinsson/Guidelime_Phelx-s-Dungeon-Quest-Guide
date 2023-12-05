@@ -1,7 +1,7 @@
 
 ## Title: Guidelime_Phelx's Dungeon Quest Guide
 ## Author: Phelx
-## Version: 0.9-Release
+## Version: 0.0.9-Release
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: Phelx's Dungeon Quest Guide
