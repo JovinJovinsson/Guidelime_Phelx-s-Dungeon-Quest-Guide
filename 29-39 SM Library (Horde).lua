@@ -1,10 +1,10 @@
 Guidelime.registerGuide([[
 
-[N30 Phelx's Scarlet Monastery Graveyard Guide.]
-[D Phelx's guide to getting the all quests for SM Graveyard. There are 2 total both exclusive to the Horde.]
+[N30 Phelx's Scarlet Monastery Library Horde Guide.]
+[D Phelx's guide to getting the all quests for SM Library. You can begin to obtain quests from [XP25 25] however it's recommended to be [XP33 33]. There are 3 total, one of which is unavailable to Undead, with a 4th for Mages found "30 SM (Mage Only)".]
 [GA Horde]
 
-[OC] Make your way to [L 50,50,100 Undercity] once you have completed [QC1109]
+[OC] Follow [NX 25 SM Library PreQuest] to be able to get [Q1160].
 Head to [TAR2055] and turn in [QT1109].
 Accept [QA1113].
 **Enter SM Graveyard**
@@ -15,6 +15,5 @@ Accept [QA1113].
 Head to [TAR2055] and turn in [QT1113].
 Run or Fly to [F Tarren Mill].
 Head to [TAR3982] and turn in [QT1051].
-[NX 29-39 SM Library (Horde)]
 
 ]], "Phelx's Dungeon Quest Guide")
