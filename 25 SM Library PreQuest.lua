@@ -32,6 +32,9 @@ Accept [QA6627].
 Select Option 2 "Neltharion is my answer".
 Speak to [TAR4489] again and turn in [QT6627].
 Accept [QA1159].
+[GA Orc,Tauren,Troll] Run back to to the flight master in [G 45.2,59.8 Stonetalon Mountains].
+[GA Orc,Tauren,Troll] Fly to [F Thunder Bluff].
+[GA Orc,Tauren,Troll] Go to [G 34.6,47.2 Thunder Bluff] and speak to [TAR3978] to accept [QA1049].
 Make your way to [F Undercity].
 Head to [G 57.8,65 Undercity] and speak to [TAR4488] to turn in [QT1159].
 Accept [QA1160].
