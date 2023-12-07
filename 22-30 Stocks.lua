@@ -5,7 +5,7 @@ Guidelime.registerGuide([[
 [GA Alliance]
 
 [O] Quests can be obtained from [XP22 22] with 1 requiring you to finish [Q373] in the Deadmines first from [XP16 16], see [NX 13-18 VC].
-[GA Alliance][O] One quest requires you to do a pre-quest at [XP25 25], see [NX 25 Stocks Side] (recommended you be [XP27 27]).
+[O] One quest requires you to do a pre-quest at [XP25 25], see [NX 25 Stocks Side] (recommended you be [XP27 27]).
 [O] This guide begins in Stormwind at the end of handing in [Q373], your Hearth should still be [S Stormwind].
 [O] To make this super easy make sure you have or keep 3 [CI4306,3] as you go through the Stockades.
 Accept [QA389] from Baros Alexston [G49.0, 30.2 Stormwind].

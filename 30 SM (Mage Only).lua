@@ -13,7 +13,7 @@ Find [TAR6626] (the chicken) and emote with /beckon or /wave or /chicken.
 He will whisper a phrase, return to [TAR6548] to turn in [QT1950].
 Accept [QA1951].
 **Now go to Scarlet Monastery**
-[GA Alliance][NX 29-39 SM Library (Alliance)]
-[GA Horde][NX 29-39 SM Library (Horde)]
+[A Alliance][NX 29-39 SM (Alliance)]
+[A Horde][NX 29-39 SM (Horde)]
 
 ]], "Phelx's Dungeon Quest Guide")
