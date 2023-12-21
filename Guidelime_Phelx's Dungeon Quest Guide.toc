@@ -1,7 +1,7 @@
 
 ## Title: Guidelime_Phelx's Dungeon Quest Guide
 ## Author: Phelx
-## Version: 0.0.9-Release
+## Version: 0.0.10-Release
 ## Interface: 11302
 ## Dependencies: Guidelime
 ## Notes: Phelx's Dungeon Quest Guide
@@ -18,3 +18,8 @@
 24-34 Gnomer (Alliance).lua
 24-34 Gnomer (Horde).lua
 25 Stocks Side.lua
+25 SM Library PreQuest (Horde).lua
+26-36 SM Graveyard (Horde).lua
+29-39 SM (Alliance).lua
+29-39 SM (Horde).lua
+30 SM (Mage Only).lua
