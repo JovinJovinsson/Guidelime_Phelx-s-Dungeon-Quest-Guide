@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 
 [N20-30 Phelx's Blackfathom Deeps (BFD) Guide (Horde)]
-[D Phelx's guide to acquiring all Horde BFD quests. There are 5 total.]
+[D Phelx's guide to acquiring all Horde BFD quests. There are 5 total. Note: This is not for the Season of Discovery Raid.]
 [GA Horde]
 
 [O] Quests can be obtained from levels [XP17 17] with most around [XP18 18] or [XP21 21].
