@@ -11,8 +11,8 @@
 13-18 RFC (Tirisfal Glades Start).lua
 15-25 WC.lua
 18-23 VC.lua
-20-30 BFD (Alliance).lua
-20-30 BFD (Horde).lua
+20-30 BFD (Non-SoD)(Alliance).lua
+20-30 BFD (Non-SoD)(Horde).lua
 22-30 SFK.lua
 22-30 Stocks.lua
 24-34 Gnomer (Alliance).lua
