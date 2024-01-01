@@ -1,7 +1,7 @@
 Guidelime.registerGuide([[
 
 [N20-30 Phelx's Blackfathom Deeps (BFD) Guide (Alliance)]
-[D Phelx's guide to acquiring all Alliance BFD quests. There are 5 total.]
+[D Phelx's guide to acquiring all Alliance BFD quests. There are 5 total. Note: This is not for the Season of Discovery Raid.]
 [GA Alliance]
 
 [O] There are quests in all 3 capitol cities. If you're leveling in Ashenvale, you can grab the Darnassus ones first, or after heading to Stormwind/Ironforge. However this guide assumes Stormwind Start.

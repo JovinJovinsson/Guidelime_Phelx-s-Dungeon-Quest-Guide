@@ -1,36 +1,29 @@
 Guidelime.registerGuide([[
 
-[N13-18 Phelx's Ragefire Chasm (RFC) Guide (Mulgore Start)]
-[D Phelx's guide to acquiring all RFC quests. There are 5 total.]
+[N13-18 Ragefire Chasm (RFC) Mulgore Start]
+[D There are 5 quests total, you must have a minimum level of 9 to accept them all.]
 [GA Horde]
 
-All quests require a minimum level of [XP9 9].
-Enter Thunderbluff and accept [QA5722][QA5723] from Rahauro.
 Get the Flightpath [P Thunderbluff].
-The Flightpaths below are optional, but will help with future leveling.
-Run to Camp Taurajo and get [P Camp Taurajo].
-Run to Crossroads and get [P Crossroads].
-Run to Ratchet and get [P Ratchet].
-Run to Orgrimmar, then set your Hearth to [S Orgrimmar].
+Accept [QA5722][QA5723] from [TAR11833].
+Fly to [F Orgrimmar], or run and do the below if you don't have the flightpath.
+[OC] Get the Flightpath [P Camp Taurajo].
+[OC] Get the Flightpath [P Crossroads].
+[OC] Get the Flightpath [P Ratchet].
+Set your Hearth to [S Orgrimmar].
 Get the Flightpath [P Orgrimmar].
-Accept [QA5761] from Neeru Fireblade.
-Accept [QA5726] from Thrall.
-Head East out of Orgrimmar towards [G55,9 Durotar] and kill all the mobs for [QC5726].
+Accept [QA5761] from [TAR3216].
+Accept [QA5726] from [TAR4949].
+Complete [QC5726].
 Catch the [G50.8, 13.6 Durotar] Zeppelin to Undercity.
-Get the Flightpath [P Undercity] for leveling convenience later on.
-Accept [QA5725] from Varimathras.
+Get the Flightpath [P Undercity].
+Accept [QA5725] from [TAR2425].
 Hearth to [H Orgrimmar].
-Return to Thrall and turn in [QT5726], accept [QA5727].
-Speak to Neeru Fireblade then return to Thrall and turn in [QT5727], then accept [QA5728].
-**Now enter Ragefire Chasm.**
-[O] Find Maur Grimtotem to turn in [QT5722], accept [QA5824].
-[O] Complete the remaining quests [QC5728][QC5761][QC5723][QC5725].
-Turn in [QT5761] at Neeru.
-Turn in [QT5828] at Thrall, accept [QA5729].
-Speak to Neeru Fireblade to turn in [QT5729], accept [QA5730].
-Turn in [QT5730] at Thrall.
-Go to Undercity and turn in [QT5725] at Varimathras.
-Hearth to [H Orgrimmar].
-Fly to [F Thunderbluff].
-Turn in [QT5723][QT5724] at Rahauro.
+Turn in [QT5726] at [TAR4949].
+Accept [QA5727] from [TAR4949].
+Complete [QC5727] by speaking to [TAR3216].
+Turn in [QT5727] with [TAR4949].
+Accept [QA5728] from [TAR4949].
+**Now enter Ragefire Chasm**
+[NX 13-18 RFC Finisher]
 ]], "Phelx's Dungeon Quest Guide")
