@@ -10,7 +10,7 @@ Guidelime.registerGuide([[
 **Now enter Ragefire Chasm**
 Complete [QC5722] at [TAR11834].
 Accept [QA5724] from [TAR11834].
-[O] Complete [QC5728][QC5761][QC5723][QC5725].
+Complete [QC5728][QC5761][QC5723][QC5725].
 Turn in [QT5761] at [TAR3216].
 Turn in [QT5828] at [TAR4949]
 Accept [QA5729] from [TAR4949].
